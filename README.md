@@ -10,11 +10,8 @@ Intialize the matrix Q and u
 ### Step 2:	
 The vector u and e is given by
 
-    ![eqn1](./ex4.jpg)
+    ![ex4](https://github.com/user-attachments/assets/f07ff351-fc1d-4987-9bae-38ea1f618458)
 
-    ![eqn2](./ex6.jpg)
-
-    ![eqn3](./ex3.jpg)
 
 ### Step 3:	
 Obtain the Q matrix   
@@ -23,6 +20,9 @@ Obtain the Q matrix
 Construct the upper triangular matrix R
     ![eqn5](./ex2.jpg)
 
+    ![ex6](https://github.com/user-attachments/assets/f0aa06af-2399-4421-b6dd-ca376bb26072)
+
+    ![ex3](https://github.com/user-attachments/assets/c9dab5be-500b-4061-95a4-c14ac92b85b0)
 
 
 ## Program:
