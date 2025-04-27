@@ -20,9 +20,11 @@ Obtain the Q matrix
 Construct the upper triangular matrix R
     ![eqn5](./ex2.jpg)
 
-    ![ex6](https://github.com/user-attachments/assets/f0aa06af-2399-4421-b6dd-ca376bb26072)
+   ![ex6](https://github.com/user-attachments/assets/4e6755b6-bb89-4b77-9a4d-12833d148180)
 
-    ![ex3](https://github.com/user-attachments/assets/c9dab5be-500b-4061-95a4-c14ac92b85b0)
+
+    ![ex4](https://github.com/user-attachments/assets/674fd413-5502-403f-a1ad-78143f4953ca)
+
 
 
 ## Program:
