@@ -10,7 +10,8 @@ Intialize the matrix Q and u
 ### Step 2:	
 The vector u and e is given by
 
-    ![ex4](https://github.com/user-attachments/assets/f07ff351-fc1d-4987-9bae-38ea1f618458)
+   
+   ![ex3](https://github.com/user-attachments/assets/35d9cb7f-13d5-4433-b8b6-1d2ea955274e)
 
 
 ### Step 3:	
@@ -19,13 +20,6 @@ Obtain the Q matrix
 ### Step 4:	
 Construct the upper triangular matrix R
     ![eqn5](./ex2.jpg)
-
-   ![ex6](https://github.com/user-attachments/assets/4e6755b6-bb89-4b77-9a4d-12833d148180)
-
-
-    ![ex4](https://github.com/user-attachments/assets/674fd413-5502-403f-a1ad-78143f4953ca)
-
-
 
 ## Program:
 ### Gram-Schmidt Method
